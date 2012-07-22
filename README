@@ -1,0 +1,7 @@
+This Code is intended to measure two ACS712 based current sensor modules and one voltage devider.
+
+It is used to create statistical data of an solar system (Ibattery, Iuse, Vbatt), hardware based on an USBasp-board.
+
+Software based on hid-data-example (c) 2008 by OBJECTIVE DEVELOPMENT Software GmbH. http://www.obdev.at/
+
+(c) 2012 Florian "adlerweb" Knodt - www.adlerweb.info
